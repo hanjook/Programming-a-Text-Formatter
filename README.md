@@ -4,5 +4,5 @@
 
 # Files
 
-- '1.txt': contains the text paragraph to be processed
-- 'text_formatter.c': contains the code to format the text
+- `1.txt`: contains the text paragraph to be processed
+- `text_formatter.c`: contains the code to format the text
