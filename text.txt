@@ -1,7 +1,7 @@
 Hello, what are you
       doing?
 
-Haha, I'm writing my comp10002 programming assignment.
+Haha, I'm writing my text code programming assignment.
 Its REALLY REALLY fun, because we are doing
 			text processing.
 .p
@@ -56,7 +56,7 @@ additional lines. And also, be sure that, for example,
 .p
 Finally, you need to correctly handle extended strings like URLs
 such as
-http://people.eng.unimelb.edu.au/ammoffat/teaching/10002/ass1/
+http://hellooooooooooooooooooooooworlddddddddddddddddddddd.com
 (which is 62 characters) that are
 longer than the current width supposedly allows...
 
